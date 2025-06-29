@@ -26,10 +26,8 @@ A passionate Full Stack Web Developer
   Responsive property listing platform with CRUD operations, user authentication, and RESTful routing.  
   🌐 [Live Demo](https://wanderlust-opwa.onrender.com/listings)
 
-- ## 🐞 [Bug Tracker](https://github.com/GIT-PRITAM/BugTracker) – Issue Tracking Application
-
-A full-stack bug tracking system to create, assign, and manage project issues with real-time status updates.
-
+- 🐞 **[Bug Tracker](https://github.com/GIT-PRITAM/BugTracker)** – Issue Tracking Application
+  A full-stack bug tracking system to create, assign, and manage project issues with real-time status updates.
 
 - 📈 **Zerodha Clone (In Progress)** – Full Stack Trading Platform with real-time updates
 
