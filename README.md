@@ -56,9 +56,9 @@ A passionate Full Stack Web Developer
 ---
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-PRITAM&layout=compact&theme=radical)
-![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-PRITAM&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-PRITAM&show_icons=true&theme=radical)
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-PRITAM&show_icons=true&theme=radical)
+
 
 
 ---
