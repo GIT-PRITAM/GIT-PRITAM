@@ -2,10 +2,6 @@
 
 A passionate Full Stack Web Developer 
 
-## 📊 GitHub Profile Views
-![](https://komarev.com/ghpvc/?username=GIT-PRITAM&color=blue&style=flat)
-
-
 - 🌱 I’m currently exploring **React Native**
 - 💬 Ask me about **MERN Stack, WebRTC, Socket.io, Full Stack Development, REST APIs**
 - 🔭 I’m currently working on a **Full Stack Zerodha Clone Trading Platform**
