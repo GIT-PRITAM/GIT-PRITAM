@@ -18,7 +18,7 @@ A passionate Full Stack Web Developer
 ---
 
 ## 💼 Featured Projects:
-- 🔥 **[VibeConnect](https://github.com/GIT-PRITAM/VibeConnect)** – Real-time Video Collaboration Platform  
+- 🎥 **[VibeConnect](https://github.com/GIT-PRITAM/VibeConnect)** – Real-time Video Collaboration Platform  
   A peer-to-peer video calling app with screen sharing and live chat using WebRTC and Socket.IO.  
   🌐 [Live Demo](https://vibeconnect-uphn.onrender.com/)
 
