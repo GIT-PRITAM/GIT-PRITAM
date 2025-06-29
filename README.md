@@ -47,8 +47,11 @@ A passionate Full Stack Web Developer from India 🚀
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/> 
 <img src="https://mui.com/static/logo.png" alt="Material UI" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/svg/svgrepo@master/330646.svg" alt="Hoppscotch" width="40" height="40"/> 
 </p>
+
+### Also Comfortable With:
+- Hoppscotch (API Testing)
+
 
 
 
