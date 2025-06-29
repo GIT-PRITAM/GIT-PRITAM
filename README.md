@@ -35,9 +35,6 @@ A passionate Full Stack Web Developer
 
 </p>
 
-### Also Comfortable With:
-- Hoppscotch (API Testing)
-
 ---
 
 ## 💼 Featured Projects:
