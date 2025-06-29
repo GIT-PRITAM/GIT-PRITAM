@@ -1,8 +1,8 @@
 # Hi 👋, I'm Pritam Sarkar
 
-A passionate Full Stack Web Developer from India 🚀
+A passionate Full Stack Web Developer 
 
-- 🌱 I’m currently exploring **TypeScript, React Native**
+- 🌱 I’m currently exploring **React Native**
 - 💬 Ask me about **MERN Stack, WebRTC, Socket.io, Full Stack Development, REST APIs**
 - 🔭 I’m currently working on a **Full Stack Zerodha Clone Trading Platform**
 - 💻 Built **Wanderlust - Airbnb Clone Web Application** and **VibeConnect - Real-time Video Collaboration Platform with Screen Sharing**
