@@ -58,9 +58,7 @@ A passionate **Full Stack Web Developer** 🚀
 ## 📊 GitHub Stats:
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GIT-PRITAM&theme=radical&utcOffset=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-PRITAM&theme=radical&langs_count=10&hide_border=true)
-
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GIT-PRITAM&theme=radical)
 
 
 ---
