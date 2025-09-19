@@ -2,7 +2,7 @@
 
 A passionate **Full Stack Web Developer** 🚀  
 
-- 🌱 I’m currently exploring **React Native**
+- 🌱 I’m currently exploring **Next.JS**
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me at: **pritamsarkar9415@gmail.com**
 
@@ -54,8 +54,9 @@ A passionate **Full Stack Web Developer** 🚀
 ---
 
 ## 📊 GitHub Stats:
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GIT-PRITAM&theme=radical)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GIT-PRITAM&theme=radical&utcOffset=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GIT-PRITAM&layout=compact&theme=radical&langs_count=10&hide_border=true)
+
 
 ---
 
