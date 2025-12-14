@@ -2,7 +2,7 @@
 
 A passionate **Full Stack Web Developer** 🚀  
 
-- 🌱 I’m currently exploring **Next.JS**
+- 🌱 I’m currently exploring **Devops**
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me at: **pritamsarkar9415@gmail.com**
 
